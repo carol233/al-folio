@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='https://www.monash.edu/'>Monash University</a>, Melbourne, Australia.
+subtitle: PhD Candidate, <a href='https://www.monash.edu/'>Monash University</a>, Melbourne, Australia.
 
 profile:
   align: right
