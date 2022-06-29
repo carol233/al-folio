@@ -18,16 +18,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 3rd-year PhD student studying at <a href='https://www.monash.edu/'>Monash University</a>. 
+I am a 3rd-year PhD candidate studying at <a href='https://www.monash.edu/'>Monash University</a>. 
 
 In 2019, I graduated from <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications</a> with a bachelor's degree. Following that, I moved to <a href='https://www.monash.edu/'>Monash University</a> to begin my PhD studies. I expect to finish my PhD studies at the end of 2022.
-I am looking for a teaching position and here is my <a href='../assets/pdf/Yanjie_Zhao_newCV.pdf'>resume</a>.
+
 
 My supervisors are <a href='http://lilicoding.github.io/'>Dr. Li Li</a> and <a href='https://sites.google.com/site/johncgrundy/'>Prof. John Grundy</a>. 
 My research topic, Big Code Augmented Android App Development, seeks to learn from "big code" to handle various programming tasks such as automated API usage recommendation and program patching. See our lab pages for more information on <a href='https://www.monash.edu/it/humanise-lab'>HumaniSE Lab</a> and <a href='https://github.com/SMAT-Lab'>SMAT Lab</a>.
 
 
-If you would like to reach me, please send an email to <a href="#">Yanjie.Zhao@monash.edu</a>.
+I am looking for a faculty position and here is my <a href='../assets/pdf/Yanjie_Zhao_newCV.pdf'>resume</a>. If you would like to reach me, please send an email to <a href="#">Yanjie.Zhao@monash.edu</a>.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
