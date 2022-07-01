@@ -5,15 +5,15 @@
 :root {
   --global-bg-color: #ffffff;
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #374B4A;
-  --global-text-color-light: #526760;
-  --global-theme-color: #8B8BAE;
+  --global-text-color: #000009;
+  --global-text-color-light: #464F51;
+  --global-theme-color: #5603AD;
   --global-hover-color: #88D9E6;
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #a1784c;
-  --global-divider-color: #8B8BAE;
+  --global-divider-color: #7F60CE;
   --global-card-bg-color: #94B0DA;
 
   .fa-sun {
