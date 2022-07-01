@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Grundy":
+  - firstname: ["John", "J."]
+    url: https://sites.google.com/site/johncgrundy/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Li":
+  - firstname: ["Li", "L."]
+    url: http://lilicoding.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wang":
+  - firstname: ["Haoyu", "H."]
+    url: https://howiepku.github.io/
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
