@@ -27,7 +27,7 @@ My supervisors are <a href='http://lilicoding.github.io/'>Dr. Li Li</a> and <a h
 My research topic, Big Code Augmented Android App Development, seeks to learn from "big code" to handle various programming tasks such as automated API usage recommendation and program patching. See our lab pages for more information on <a href='https://www.monash.edu/it/humanise-lab'>HumaniSE Lab</a> and <a href='https://github.com/SMAT-Lab'>SMAT Lab</a>.
 
 
-I am looking for a faculty position and here is my <a href='../assets/pdf/Yanjie_Zhao_CV.pdf'>resume</a>. If you would like to reach me, please send an email to <a href="#">Yanjie.Zhao@monash.edu</a>.
+Here is my <a href='../assets/pdf/Yanjie_Zhao_CV.pdf'>resume</a>. If you would like to reach me, please send an email to <a href="#">Yanjie.Zhao@monash.edu</a>.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
